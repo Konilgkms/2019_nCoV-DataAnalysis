@@ -1,7 +1,6 @@
 # 2019_nCoV-DataAnalysis
 - 面对疫情，恐慌会造成更严重的后果,消除恐慌最好的办法就是去了解数据。
-- 通过数据可视化、数据分析与挖掘以及机器学习等相关方法，了解数据背后的信息。
-- 后期会更新使用传染病模型、时序模型等方法对疫情对走势进行预测。
+- 最近学习了一些可视化的函数工具，以此为案例分享学习。
 ## DataVisualization
 ### 数据来源：https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 - 数据集内容：
